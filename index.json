@@ -1,7 +1,19 @@
-[
-  {"joke": "Aku ga perlu spirit doll. Tiap hari spiritku wis dol"},
-  {"joke": "Artis yg suka ada di Sabuga? Cincau Laura"},
-  {"joke": "Kubernetes kalau kebanyakan, jadi Kuberngalir. Lama-lama jadi Kuberbanjir"},
-  {"joke": "Pemain bola yang selalu muncul setiap ada yang resign? Edin J.Co"},
-  {"joke": "Istri: “aku beli martabak red velvet ya” Gw: “yg itzy ga ada?”"}
-]
+{
+  "jokes": [
+    {
+      "joke": "Aku ga perlu spirit doll. Tiap hari spiritku wis dol"
+    },
+    {
+      "joke": "Artis yg suka ada di Sabuga? Cincau Laura"
+    },
+    {
+      "joke": "Kubernetes kalau kebanyakan, jadi Kuberngalir. Lama-lama jadi Kuberbanjir"
+    },
+    {
+      "joke": "Pemain bola yang selalu muncul setiap ada yang resign? Edin J.Co"
+    },
+    {
+      "joke": "Istri: “aku beli martabak red velvet ya” Gw: “yg itzy ga ada?”"
+    }
+  ]
+}
